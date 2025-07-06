@@ -69,6 +69,7 @@ Clarity: Offers clearer insights by focusing on core points.
 Accessibility: Helps readers with limited time or lower reading proficiency.
 
 OUTPUT:
+  
   Original Text:
 
 The global climate crisis continues to escalate. Rising temperatures, melting ice caps, and 
